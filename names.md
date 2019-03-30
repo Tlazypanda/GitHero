@@ -17,15 +17,3 @@ Ritik Harchani
 Shivay Lamba
 
 
-=======
-
-=========
-<<<<<<< HEAD
-=======
-
-
-
-
-=======
-=
->>>>>>> e103a48a574cd9d889fd4b80df2f01d11db9857b
