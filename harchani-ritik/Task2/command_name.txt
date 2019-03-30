@@ -1,0 +1,2 @@
+Obviously I cannot misspell her name!
+btw command to unstage all files - git reset
