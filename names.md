@@ -70,3 +70,4 @@ Manank Patni
 >>>>>>> names.md: Add name to the file
 >>>>>>> Task 1 names.md: Add name to the file
 >>>>>>> Task 1 names.md: Add name to the file
+Nishtha Bhatia
