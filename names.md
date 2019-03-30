@@ -24,5 +24,4 @@ Shivay Lamba
 
 
 
-Shivay Lamba - XYZ
 
