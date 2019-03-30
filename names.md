@@ -5,24 +5,46 @@ Rahul - Vin (From Book)
 Ananya Agrawal - Sneha
 Manthan Surkar
 Ananya Agrawal - Sneha
+
+Ayush Gupta
+
+Ayush Gupta
+
+=======
 Ayush Gupta - BlaBlaBlaa
+
 Ritik Harchani
 Shivay Lamba
+
+
+=======
+
+=========
+=======
+
 
 
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
-<<<<<<< HEAD
 Abhishek Tiwari - Sneha
+Ayush Gupta
 Ayush Gupta
 Anmol Chugh
 Ayush Gupta<br>
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
-<<<<<<< HEAD
 Ayush Gupta
 Anmol Chugh
 
 Karan Agrawal
+
+Ritik Harchani - Palak Mishra
+
+Ayush Gupta
+Satyam Kumar
+Anmol Chugh
+
+
+
