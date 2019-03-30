@@ -26,7 +26,3 @@ Shivay Lamba
 
 Shivay Lamba - XYZ
 
-Manthan Surkar - kendal jener
-Ananya Agrawal - Sneha
-
-
