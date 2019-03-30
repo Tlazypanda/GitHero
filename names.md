@@ -27,9 +27,8 @@ Ritik Harchani - Palak Mishra
 Ayush Gupta
 Satyam Kumar
 
-Alllexa
-
 Anmol Chugh
 Aayush Bh
 Karan Agrawal
+
 
