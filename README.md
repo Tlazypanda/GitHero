@@ -1,5 +1,3 @@
-#CaptainLazarus
-
 # GitHero  
 ## Task 1:
 1.Fork the repo and clone it on your system. 
