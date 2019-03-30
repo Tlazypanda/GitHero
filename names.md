@@ -36,9 +36,6 @@ Ayush Gupta<br>
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
-<<<<<<< HEAD
-Abhishek Kumar Singh
-=======
 Ayush Gupta
 Anmol Chugh
 
@@ -47,31 +44,12 @@ Karan Agrawal
 Ritik Harchani - Palak Mishra
 
 Ayush Gupta
-<<<<<<< HEAD
 Satyam Kumar
 Anmol Chugh
-<<<<<<< HEAD
+Anubhav Patel - Mewtoo
+Karan Agrawal
 Aayush Bhaskar
-
-
-
-<<<<<<< HEAD
 Karan Agrawal
-=======
-=======
-<<<<<<< HEAD
-=======
-
-Karan Agrawal
-=======
-<<<<<<< HEAD
 Anmol Chugh
-
-=======
 Manank Patni
->>>>>>> names.md: Add name to the file
->>>>>>> names.md: Add name to the file
->>>>>>> names.md: Add name to the file
->>>>>>> Task 1 names.md: Add name to the file
->>>>>>> Task 1 names.md: Add name to the file
->>>>>>> 5c26fc5730b9f1f377136f9ea09d39d1318a95bf
+Abhishek Kumar Singh
