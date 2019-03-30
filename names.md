@@ -1,3 +1,4 @@
+Archit Kaushik
 Abhimanyu
 Archisha Baranwal
 Blah blah
@@ -12,9 +13,12 @@ Shivay Lamba
 
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
+<<<<<<< HEAD
 Ayush Gupta
 Ayush Gupta
 Anmol Chugh
 Ayush Gupta
 Satyam Kumar
+Anmol Chugh
+Ayush Gupta<br>
 Anmol Chugh
