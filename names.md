@@ -1,2 +1,2 @@
 Blah blah
-Ananya Agrawal - Sneha
+Ananya Agrawal
