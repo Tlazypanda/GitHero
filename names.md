@@ -1,29 +1,13 @@
 Abhimanyu
 Archisha Baranwal
 Blah blah
+Ananya Agrawal
 Rahul - Vin (From Book)
 Ananya Agrawal - Sneha
 Manthan Surkar
-Ananya Agrawal - Sneha
-
-Ayush Gupta
-
-Ayush Gupta
-
-=======
 Ayush Gupta - BlaBlaBlaa
-
 Ritik Harchani
 Shivay Lamba
-
-
-=======
-
-=========
-=======
-
-
-
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
@@ -43,10 +27,8 @@ Karan Agrawal
 Ritik Harchani - Palak Mishra
 
 Ayush Gupta
-<<<<<<< HEAD
 Satyam Kumar
 Anmol Chugh
-<<<<<<< HEAD
 Anubhav Patel - Mewtoo
 Karan Agrawal
 Aayush Bhaskar
@@ -55,6 +37,4 @@ Anmol Chugh
 Manank Patni
 
 Parul Aggarwal
-
-========
 
