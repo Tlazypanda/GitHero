@@ -46,4 +46,3 @@
 
 
 Shivay lamba
-Sakth laundiya!
