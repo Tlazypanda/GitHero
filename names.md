@@ -17,18 +17,27 @@ Shivay Lamba
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
+Abhishek Tiwari - Sneha
 Ayush Gupta
 
 Ayush Gupta
 Anmol Chugh
+Ayush Gupta
+Ayush Gupta
+Satyam Kumar
+Anmol Chugh
+
+Ayush Gupta
+Anmol Chugh
+
+Karan Agrawal
 
 Ritik Harchani - Palak Mishra
 
 Ayush Gupta
 Satyam Kumar
-
 Anmol Chugh
-Aayush Bh
-Karan Agrawal
+Aayush Bhaskar
+
 
 
