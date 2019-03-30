@@ -6,10 +6,6 @@ Ananya Agrawal - Sneha
 Manthan Surkar
 Ananya Agrawal - Sneha
 
-Ayush Gupta
-
-Ayush Gupta
-
 =======
 Ayush Gupta - BlaBlaBlaa
 
