@@ -43,7 +43,7 @@ Anmol Chugh
 
 Parul Aggarwal
 
-Crush's Nam: None
+Crush's Name: None
 
 ========
 
