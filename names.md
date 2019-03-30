@@ -66,4 +66,3 @@ Manank Patni
 >>>>>>> Task 1 names.md: Add name to the file
 >>>>>>> Task 1 names.md: Add name to the file
 >>>>>>> a71ec99d011cef5008b3a958c2f3261254c671c7
-crush's ka name

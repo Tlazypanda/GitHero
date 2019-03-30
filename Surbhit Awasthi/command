@@ -1,0 +1,16 @@
+Task 7 - git rebase -i (it is interactive rebase)
+
+Task 8 - git remote add upstream https://github.com/Tlazypanda/GitHero.git
+        git pull upstream master
+        
+Task - 9 - git fetch origin, git merge origin master
+
+Task - 10 - git checkout -b gest
+			vi file.txt
+			git checkout master
+			git merge
+			git add .
+			git commit
+			git push
+			PR to be created
+
