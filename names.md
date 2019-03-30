@@ -7,6 +7,7 @@ Manthan Surkar
 Ananya Agrawal - Sneha
 Ayush Gupta - BlaBlaBlaa
 Ritik Harchani
+Shivay Lamba
 
 
 Manthan Surkar - kendal jener
@@ -17,5 +18,3 @@ Anmol Chugh
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
-
-Karan Agrawal
