@@ -14,5 +14,6 @@ Anmol Chugh
 Ritik Harchani - Palak Mishra
 Ayush Gupta
 Satyam Kumar
-Ayush Gupta<br>
 Aayush Bhaskar
+
+Karan Agrawal
