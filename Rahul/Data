@@ -1,0 +1,18 @@
+4 - git configure global ...
+
+5 - git log
+
+6 - git reset HEAD
+
+7 - git commit --amend if not commited else git squash HEAD ~2
+    git push -f orign master
+
+8 - git add remote upstream link
+
+9 (Written 7) - 
+
+10 (Written 8) - git checkout -b Feature
+                git push origin Feature
+                
+11 (Written 9) - git fetch upstream AManHasNoName
+                
