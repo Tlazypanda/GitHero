@@ -6,9 +6,14 @@ Ananya Agrawal - Sneha
 Manthan Surkar
 Ananya Agrawal - Sneha
 Ayush Gupta - BlaBlaBlaa
+Ritik Harchani
 
 
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
-Ayush Gupta<br>
+Ayush Gupta
+Ayush Gupta
 Anmol Chugh
+Ayush Gupta
+Anmol Chugh
+
