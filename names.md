@@ -6,7 +6,6 @@ Ananya Agrawal - Sneha
 Manthan Surkar
 Ananya Agrawal - Sneha
 
-Ayush Gupta
 
 Ayush Gupta - BlaBlaBlaa
 
@@ -33,8 +32,11 @@ Ritik Harchani - Palak Mishra
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
+Aayush Bhaskar
 
 
 =======
+Karan Agrawal
 
->>>>>>> 73ec24ee05251807f9c81c429575ae5140d9d9a1
+
+
