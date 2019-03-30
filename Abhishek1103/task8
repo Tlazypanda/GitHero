@@ -1,0 +1,1 @@
+git rebase -i (then squish(s) all commits into one )
