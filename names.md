@@ -12,4 +12,4 @@ Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta<br>
 Anmol Chugh
-Ritika Kumari
+Ritika Kumari - ritika
