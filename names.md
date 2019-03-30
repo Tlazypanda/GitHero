@@ -47,27 +47,24 @@ Ayush Gupta
 Satyam Kumar
 Anmol Chugh
 <<<<<<< HEAD
+Anubhav Patel - Mewtoo
+Karan Agrawal
 Aayush Bhaskar
-
-
-
-<<<<<<< HEAD
 Karan Agrawal
-=======
-=======
-<<<<<<< HEAD
-=======
-
-Karan Agrawal
-=======
-<<<<<<< HEAD
 Anmol Chugh
-
-=======
 Manank Patni
+<<<<<<< HEAD
 >>>>>>> names.md: Add name to the file
 >>>>>>> names.md: Add name to the file
 >>>>>>> names.md: Add name to the file
 >>>>>>> Task 1 names.md: Add name to the file
 >>>>>>> Task 1 names.md: Add name to the file
 Nishtha Bhatia
+=======
+
+Parul Aggarwal
+
+========
+
+>>>>>>> 35467c4c4a31da69fc3844253d3033acb99d2b3a
+Shantanu Maheshwari
