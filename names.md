@@ -1,4 +1,4 @@
-Abhimanyu
+Abhimanyu -- batman 
 Archisha Baranwal
 Blah blah
 Rahul - Vin (From Book)
@@ -6,26 +6,21 @@ Ananya Agrawal - Sneha
 Manthan Surkar
 Ananya Agrawal - Sneha
 
-Ayush Gupta
 
-Ayush Gupta
-
-=======
 Ayush Gupta - BlaBlaBlaa
 
 Ritik Harchani
 Shivay Lamba
 
 
-=======
-
-=========
-=======
 
 
 
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
+Ayush Gupta<br>
+Anmol Chugh
+=======
 Ayush Gupta
 Abhishek Tiwari - Sneha
 Ayush Gupta
@@ -56,5 +51,15 @@ Manank Patni
 
 Parul Aggarwal
 
+<<<<<<< HEAD
+=======
+Karan Agrawal
+
+
+
+=======
+Anmol Chugh
+=======
 ========
+>>>>>>> 35467c4c4a31da69fc3844253d3033acb99d2b3a
 
