@@ -1,0 +1,7 @@
+git reflog 
+
+OR
+
+git reset --hard HEAD~1
+for deleting the last commit
+
