@@ -13,10 +13,8 @@ Shivay Lamba
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
-
 Ayush Gupta
 Anmol Chugh
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
-Abhishek Kumar Singh
