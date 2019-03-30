@@ -1,0 +1,5 @@
+git remote add upstream <origin repo link>
+
+git fetch upstream
+
+git merge upstream/master
