@@ -35,11 +35,31 @@ Anmol Chugh
 Ritik Harchani - Palak Mishra
 =======
 Ayush Gupta
+<<<<<<< HEAD
 Satyam Kumar
 Anmol Chugh
+<<<<<<< HEAD
 Aayush Bhaskar
 
 
 =======
 
+<<<<<<< HEAD
 Karan Agrawal
+=======
+=======
+<<<<<<< HEAD
+=======
+
+Karan Agrawal
+=======
+<<<<<<< HEAD
+Anmol Chugh
+
+=======
+Manank Patni
+>>>>>>> names.md: Add name to the file
+>>>>>>> names.md: Add name to the file
+>>>>>>> names.md: Add name to the file
+>>>>>>> Task 1 names.md: Add name to the file
+>>>>>>> Task 1 names.md: Add name to the file
