@@ -35,11 +35,29 @@ Anmol Chugh
 Ritik Harchani - Palak Mishra
 =======
 Ayush Gupta
+
 Satyam Kumar
 Anmol Chugh
+
+Aayush Bhaskar
 
 
 =======
 
+
 Paritosh
+
+=======
+
+Karan Agrawal
+=======
+=======
+
+=======
+=======
+
+Anmol Chugh
+
+=======
+Manank Patni
 
