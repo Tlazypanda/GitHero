@@ -22,6 +22,7 @@ Shivay Lamba
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
+
 Abhishek Tiwari - Sneha
 Ayush Gupta
 Ayush Gupta
@@ -38,18 +39,14 @@ Karan Agrawal
 Ritik Harchani - Palak Mishra
 
 Ayush Gupta
-
 Satyam Kumar
 Anmol Chugh
-
 Anubhav Patel - Mewtoo
 Karan Agrawal
 Aayush Bhaskar
 Karan Agrawal
 Anmol Chugh
 Manank Patni
+Abhishek Kumar Singh
 
 Parul Aggarwal
-
-
-
