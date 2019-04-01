@@ -3,18 +3,21 @@ Archisha Baranwal
 Blah blah
 Rahul - Vin (From Book)
 Ananya Agrawal - Sneha
-Manthan Surkar
+Manthan Surkar - batman
 Ananya Agrawal - Sneha
 
 Ayush Gupta
 
 Ayush Gupta
+
 Ayush Gupta - BlaBlaBlaa
 Ritik Harchani
 Shivay Lamba
+
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
+
 Abhishek Tiwari - Sneha
 Ayush Gupta
 Ayush Gupta
@@ -33,6 +36,7 @@ Ritik Harchani - Palak Mishra
 Ayush Gupta
 Satyam Kumar
 Anmol Chugh
+
 
 Surbhit Awasthi
 Karan Agrawal
@@ -65,5 +69,11 @@ Karan Agrawal
 Surbhit Awasthi
 Anmol Chugh
 Manank Patni
+
+Parul Aggarwal
+
+
+Abhishek Kumar Singh
+
 Parul Aggarwal
 
