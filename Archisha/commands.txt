@@ -1,0 +1,4 @@
+Task 2:git stage, git reset HEAD
+Task 3:git reset HEAD <picname>
+Task 6:git revert
+Task 7:git diff
