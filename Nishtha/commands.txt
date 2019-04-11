@@ -1,0 +1,11 @@
+Task 2
+Stage using git add .
+unstage using git rm 'file name'
+
+Task 8
+git fetch upstream
+git rebase upstream/master
+(Solve the merge conflicts)
+git add .
+git rebase --continue
+git push origin master 
